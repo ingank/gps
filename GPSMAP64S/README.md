@@ -12,6 +12,10 @@ Natürlich bietet Garmin dieses Kartenmaterial in hochwertiger (grafischer) Qual
 Wer jedoch in puncto Augenweide ein paar Abstriche machen kann,
 der wird sich auch im Open-Source-Bereich mit aktuellem Kartenmaterial versorgen können.
 
+In diesem Zusammenhang sei noch erwähnt,
+dass sich dieses Tutorial vornehmlich auf Kartenmaterial für das Dreigestirn Deutschland/Österreich/Schweiz (DACH) bezieht.
+Dies liegt wohl an den derzeitigen Präferenzen bezüglich der Reisegewohnheiten des Autors (Anm.d.R).
+
 ### OpenTopoMap
 
 * Lizensbedingungen:
@@ -25,7 +29,21 @@ der wird sich auch im Open-Source-Bereich mit aktuellem Kartenmaterial versorgen
     * Max Berger (maxbe): Entwickler
     * Martin, DK3ML: QTH-Locator
     
-* [Deutschlandkarte](http://garmin.opentopomap.org/data/germany/germany_garmin.zip)
-* [Österreich](http://garmin.opentopomap.org/data/austria/austria_garmin.zip)
-* [Schweiz](http://garmin.opentopomap.org/data/switzerland/switzerland_garmin.zip)
-* [DACH (Deutschland/Österreich/Schweiz)](http://garmin.opentopomap.org/data/dach/dach_garmin.zip)
+* [DACH-Karte](http://garmin.opentopomap.org/data/dach/dach_garmin.zip)
+
+### OpenStreetMap // ComputerTeddy
+
+* Lizensbedingungen:
+  * [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+  * Namensnennung, Weitergabe unter gleichen Bedingungen
+  * Urhebernennung und Mitwirkende:
+    * Link zum Anbieter: https://wiki.openstreetmap.org/wiki/User:Computerteddy
+    * ComputerTeddy
+
+Hier die richtige Karte für mein Gerät zu finden war nicht so einfach,
+da jedes Probieren mit einem relativ großen Download- und Kopiervorgang verbunden war.
+Um so glücklicher war ich, als mein Kandidat feststand:
+
+* [DACH-Karte](http://ftp5.gwdg.de/pub/misc/openstreetmap/teddynetz.de/new/dach_rout_gmapsupp.img.gz)
+ 
+ 
