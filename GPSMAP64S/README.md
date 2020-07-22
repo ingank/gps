@@ -8,6 +8,7 @@ wie das Garmin GPSMAP64S® zur Zusammenarbeit mit Linux-Betriebssystemen und Ope
 ## Kartenmaterial
 
 Das Wichtigste für ein gutes Navigationsgerät sind aktuelle Karten im Offline-Speicher.
-Nastürlich bietet Garmin dieses Kartenmaterial in hochwertiger (grafischer) Qualität und Aktualität zum Kauf an.
-Wer jedoch in puncto Augenweide ein paar Abstriche machen kann, der wird sich auch im Open-Source-Bereich mit aktuellem Kartenmaterial versorgen können.
+Natürlich bietet Garmin dieses Kartenmaterial in hochwertiger (grafischer) Qualität und Aktualität zum Kauf an.
+Wer jedoch in puncto Augenweide ein paar Abstriche machen kann,
+der wird sich auch im Open-Source-Bereich mit aktuellem Kartenmaterial versorgen können.
 
