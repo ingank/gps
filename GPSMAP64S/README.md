@@ -12,3 +12,20 @@ Natürlich bietet Garmin dieses Kartenmaterial in hochwertiger (grafischer) Qual
 Wer jedoch in puncto Augenweide ein paar Abstriche machen kann,
 der wird sich auch im Open-Source-Bereich mit aktuellem Kartenmaterial versorgen können.
 
+### OpenTopoMap
+
+* Lizensbedingungen:
+  * [CC-BY-NC-SA-4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  * Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen
+  * Urhebernennung und Mitwirkende:
+    * Link zum Anbieter: http://garmin.opentopomap.org/
+    * Stefan Erhardt, DL1NFS (derstefan): Projektgründer, Hauptentwickler
+    * Philipp Hochreuther (mogstar): Projektgründer, Serverakquise
+    * Martin Schütz: Automatisiertes Erstellen der Garmin-Karten
+    * Max Berger (maxbe): Entwickler
+    * Martin, DK3ML: QTH-Locator
+    
+* [Deutschlandkarte](http://garmin.opentopomap.org/data/germany/germany_garmin.zip)
+* [Österreich](http://garmin.opentopomap.org/data/austria/austria_garmin.zip)
+* [Schweiz](http://garmin.opentopomap.org/data/switzerland/switzerland_garmin.zip)
+* [DACH (Deutschland/Österreich/Schweiz)](http://garmin.opentopomap.org/data/dach/dach_garmin.zip)
