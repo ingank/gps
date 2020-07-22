@@ -16,7 +16,7 @@ In diesem Zusammenhang sei noch erwähnt,
 dass sich dieses Tutorial vornehmlich auf Kartenmaterial für das Dreigestirn Deutschland/Österreich/Schweiz (DACH) bezieht.
 Dies liegt wohl an den derzeitigen Präferenzen bezüglich der Reisegewohnheiten des Autors (Anm.d.R).
 
-### OpenTopoMap
+### OpenTopoMap // Garmin
 
 * Lizensbedingungen:
   * [CC-BY-NC-SA-4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -46,4 +46,27 @@ Um so glücklicher war ich, als mein Kandidat feststand:
 
 * [DACH-Karte](http://ftp5.gwdg.de/pub/misc/openstreetmap/teddynetz.de/new/dach_rout_gmapsupp.img.gz)
  
- 
+### OpenStreetMap // freizeitkarte-osm.de
+
+* Lizenzbedingungen der Kartendaten:
+  * Map data © OpenStreetMap contributors (ODbL).
+  * Die dargestellten Kartenobjekte basieren auf den Daten des OpenStreetMap-Projektes. OpenStreetMap ist eine freie, editierbare Karte der gesamten Welt, die von Menschen wie dir erstellt wird. OpenStreetMap ermöglicht es geographische Daten gemeinschaftlich von überall auf der Welt anzuschauen und zu bearbeiten.
+  * Link: http://www.openstreetmap.org/
+  * Lizenz: http://www.openstreetmap.org/copyright/en
+
+* Lizenzbedingungen der Höhenlinien:
+  * Contour data © U.S. Geological Survey (public domain).
+  * Die Höhenlinien basieren teilweise auf Daten von U.S. Geological Survey.
+    * Link: http://dds.cr.usgs.gov/srtm/version2_1/SRTM3
+    * Lizenz: http://eros.usgs.gov/#/About_Us/Customer_Service/Data_Citation
+    * Contour data © J. de Ferranti (free for research and private use).
+  * Die Höhenlinien basieren teilweise auf Daten von Jonathan de Ferranti.
+    * Link: http://www.viewfinderpanoramas.org/dem3.html
+    * Lizenz: http://www.viewfinderpanoramas.org/dem3.html
+
+* Lizenzbedingungen der Karten:
+  * Produced map © FZK project (free for research and private use).
+  * Die hier verfügbaren Karten stellen ein aus den Karten- und Höhendaten abgeleitetes Werk (produced work) dar.
+  * Die Karten können für private oder wissenschaftliche Zwecke frei (uneingeschränkt) genutzt werden.
+
+
