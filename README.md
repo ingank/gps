@@ -1,2 +1,2 @@
-# gps
-All about GPS (maps/tracking/hardware/software)
+# GPS
+Alles über GPS und GPS-Geräte.  
