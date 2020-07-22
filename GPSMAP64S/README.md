@@ -40,11 +40,8 @@ Dies liegt wohl an den derzeitigen Präferenzen bezüglich der Reisegewohnheiten
     * Link zum Anbieter: https://wiki.openstreetmap.org/wiki/User:Computerteddy
     * ComputerTeddy
 
-Hier die richtige Karte für mein Gerät zu finden war nicht so einfach,
-da jedes Probieren mit einem relativ großen Download- und Kopiervorgang verbunden war.
-Um so glücklicher war ich, als mein Kandidat feststand:
-
 * [DACH-Karte](http://ftp5.gwdg.de/pub/misc/openstreetmap/teddynetz.de/new/dach_rout_gmapsupp.img.gz)
+
  
 ### OpenStreetMap // freizeitkarte-osm.de
 
@@ -68,5 +65,18 @@ Um so glücklicher war ich, als mein Kandidat feststand:
   * Produced map © FZK project (free for research and private use).
   * Die hier verfügbaren Karten stellen ein aus den Karten- und Höhendaten abgeleitetes Werk (produced work) dar.
   * Die Karten können für private oder wissenschaftliche Zwecke frei (uneingeschränkt) genutzt werden.
+  
+  Eine DACH-Karte kann hier nicht geladen werden.
+  Dafür ist die Benutzerführung optmiert und es werden lokalisierte (sprachabhängige) Karten angeboten.
+  Einen besonderen Leckerbissen stellen die Länder+ Karten dar.
+  Diese gehen 30 bis 50 km über die jeweiligen Landesgrenzen hinaus.
+  
+  * [Deutschland](http://download.freizeitkarte-osm.de/garmin/latest/DEU_de_gmapsupp.img.zip)
+  * [Deutschland+](http://download.freizeitkarte-osm.de/garmin/latest/DEU+_de_gmapsupp.img.zip)
+  * [Österreich](http://download.freizeitkarte-osm.de/garmin/latest/AUT_de_gmapsupp.img.zip)
+  * [Österreich+](http://download.freizeitkarte-osm.de/garmin/latest/AUT+_de_gmapsupp.img.zip)
+  * [Schweiz](http://download.freizeitkarte-osm.de/garmin/latest/CHE_de_gmapsupp.img.zip)
+  * [Schweiz+](http://download.freizeitkarte-osm.de/garmin/latest/CHE+_de_gmapsupp.img.zip)
+  
 
 
