@@ -1,2 +1,3 @@
 # GPS
-Alles über GPS und GPS-Geräte.  
+
+GPS und GPS-Geräte.  
